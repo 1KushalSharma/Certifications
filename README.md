@@ -20,5 +20,5 @@ This repository contains all the certifications I have got from the famous websi
  
  9.SQL (Intermediate) : https://www.hackerrank.com/certificates/89ef650f1544
  
-10. REST API (Intermediate) : https://www.hackerrank.com/certificates/f138f2be589f
+ 10.REST API (Intermediate) : https://www.hackerrank.com/certificates/f138f2be589f
 
